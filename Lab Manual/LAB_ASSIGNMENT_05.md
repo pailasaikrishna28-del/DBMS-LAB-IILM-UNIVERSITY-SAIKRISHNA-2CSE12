@@ -271,7 +271,7 @@ FROM EMPLOYEE;
 **Question 14:** Display the length of your name using appropriate function.
 
 ```sql
-SELECT LENGTH('Umar Iqbal') AS NAME_LENGTH;
+SELECT LENGTH('saikrishna') AS NAME_LENGTH;
 ```
 
 **Output:**
