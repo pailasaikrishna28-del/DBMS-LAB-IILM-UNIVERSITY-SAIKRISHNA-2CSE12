@@ -100,7 +100,7 @@ SHOW TABLES;
 **Output:**
 ```
 +-----------------------+
-| Tables_in_umariqbaldb |
+| Tables_in_saikrishnadb |
 +-----------------------+
 | department            |
 | employee              |
